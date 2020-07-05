@@ -1,1 +1,2 @@
-# ArtisanDeveloper
+# 经典书籍
+# 分布式ID生成策略
