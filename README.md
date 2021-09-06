@@ -4,6 +4,9 @@
 #### [java GC](http://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC1INq733NE4iw2UjJ7c3K8SSs)
 * [CMS 参数](http://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC3ywYar2AaAbh2SlvzX1V_NRN)
 * [Parallel Scavenge 参数](http://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC0cjQrQ0uKko42As8QV0U1uqz)    
+#### spring
+##### spring cloud gateway
+* [gateway启动、熔断、限流、重试、负载均衡](https://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC388CCy2mdAV82B1URL3jjoDt)
 #### [分布式ID生成策略](http://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC2HO_N82AWQ2e2tvjR03GncY7)
 ### Mysql
 * [mysql日志文件](https://1437b9a5.wiz06.com/wapp/pages/view/share/s/0kdXCB0UZQj22PcWQg35DuKC31PjO61cOAJB2S5MmI0K4Qqv)
